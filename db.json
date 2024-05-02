@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": "0",
+      "position": "CEO",
+      "description": "boss",
+      "children": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": "1",
+      "position": "EFO",
+      "description": "Starboy",
+      "children": []
+    },
+    {
+      "id": "5",
+      "position": "CFO",
+      "description": "White",
+      "children": [
+        "6"
+      ]
+    },
+    {
+      "id": "6",
+      "position": "Accountant",
+      "description": "Saliba",
+      "children": []
+    }
+  ]
+}
